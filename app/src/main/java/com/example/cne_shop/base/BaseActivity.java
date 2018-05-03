@@ -48,6 +48,7 @@ public abstract class BaseActivity extends AppCompatActivity {
 
     protected abstract int getContentViewId();
 
+
     protected abstract void initView();
 
     protected abstract void addListener();
