@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml:2:5-38
+		INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+		INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+		ADDED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+		INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+		ADDED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml
+		INJECTED from D:\google\CN5E-shop-master\lib\pingpp_one\AndroidManifest.xml

@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\values-xxhdpi\\wallet_base_dimens.xml",
+                    "from": {
+                        "startLines": "5,4,3,2,8,7,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "179,123,68,17,296,241,354",
+                        "endColumns": "60,55,54,50,57,54,53",
+                        "endOffsets": "235,174,118,63,349,291,403"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,172,227,278,336,391",
+                        "endColumns": "60,55,54,50,57,54,53",
+                        "endOffsets": "111,167,222,273,331,386,440"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\values-xxhdpi\\wallet_base_dimens.xml",
+                    "from": {
+                        "startLines": "5,4,3,2,8,7,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "179,123,68,17,296,241,354",
+                        "endColumns": "60,55,54,50,57,54,53",
+                        "endOffsets": "235,174,118,63,349,291,403"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,172,227,278,336,391",
+                        "endColumns": "60,55,54,50,57,54,53",
+                        "endOffsets": "111,167,222,273,331,386,440"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml:2:5-35
+		INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+		INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+		ADDED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+		INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+		ADDED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml
+		INJECTED from D:\google\CN5E-shop-master\lib\bdwallet_pay_sdk\AndroidManifest.xml

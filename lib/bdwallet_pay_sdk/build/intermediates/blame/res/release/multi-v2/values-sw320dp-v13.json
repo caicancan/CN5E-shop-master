@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw320dp-v13\\values-sw320dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\values-sw320dp\\wallet_base_dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "60",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\values-sw320dp-v13\\values-sw320dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\values-sw320dp\\wallet_base_dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "60",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\anim\\ebpay_slide_to_left.xml",
+        "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\anim\\ebpay_slide_to_left.xml"
+    },
+    {
+        "merged": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\anim\\wallet_base_slide_to_left.xml",
+        "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\anim\\wallet_base_slide_to_left.xml"
+    },
+    {
+        "merged": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\anim\\wallet_base_slide_from_left.xml",
+        "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\anim\\wallet_base_slide_from_left.xml"
+    },
+    {
+        "merged": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\anim\\wallet_base_slide_to_right.xml",
+        "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\anim\\wallet_base_slide_to_right.xml"
+    },
+    {
+        "merged": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\anim\\wallet_base_show_dialog_anim.xml",
+        "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\anim\\wallet_base_show_dialog_anim.xml"
+    },
+    {
+        "merged": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\anim\\wallet_base_dismiss_dialog_anim.xml",
+        "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\anim\\wallet_base_dismiss_dialog_anim.xml"
+    },
+    {
+        "merged": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\anim\\ebpay_slide_from_left.xml",
+        "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\anim\\ebpay_slide_from_left.xml"
+    },
+    {
+        "merged": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\anim\\ebpay_slide_from_right.xml",
+        "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\anim\\ebpay_slide_from_right.xml"
+    },
+    {
+        "merged": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\anim\\wallet_base_slide_from_right.xml",
+        "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\anim\\wallet_base_slide_from_right.xml"
+    },
+    {
+        "merged": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\release\\anim\\ebpay_slide_to_right.xml",
+        "source": "D:\\google\\CN5E-shop-master\\lib\\bdwallet_pay_sdk\\res\\anim\\ebpay_slide_to_right.xml"
+    }
+]
