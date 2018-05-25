@@ -138,6 +138,7 @@ public class CnToolbar extends Toolbar {
     }
 
     public void setUserClickable(boolean enable){
+
         userPhoto.setClickable(enable);
     }
 
